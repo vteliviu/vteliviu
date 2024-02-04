@@ -12,6 +12,10 @@ I also enjoy wireframming, ui, ux, and design in general.
 ![REACT](https://github.com/vteliviu/vteliviu/blob/main/figma%20(1).svg)
 ![REACT](figma(1).svg)
 
+<p align="center">
+  <img src="github.com/vteliviu/vteliviu/blob/main/figma%20(1).svg" width="350" title="hover text">
+</p>
+
 
 - 🔭 I’m currently working on Vitesco Technologies Romania and as a freelancer
 - 👯 I’m looking to collaborate on Individiual | Open Source projects
