@@ -17,7 +17,7 @@ I also enjoy wireframming, ui, ux, and design in general.
 </p>
  <img alt="image" src="figma%20(1).svg" width="30" padding-left="100"/>
  
-
+ <div><img src="figma%20(1).svg" width="20" alt="My Image" /></div>
 
 - 🔭 I’m currently working on Vitesco Technologies Romania and as a freelancer
 - 👯 I’m looking to collaborate on Individiual | Open Source projects
