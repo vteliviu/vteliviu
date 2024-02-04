@@ -13,7 +13,7 @@ I also enjoy wireframming, ui, ux, and design in general.
 ![REACT](figma(1).svg)
 
 <p align="left">
-  <img src="figma%20(1).svg" width="20" alt="FIGMA">
+  <img src="figma%20(1).svg" width="20" title="FIGMA">
 </p>
 
 
