@@ -12,8 +12,9 @@ I also enjoy wireframming, ui, ux, and design in general.
 ![REACT](https://github.com/vteliviu/vteliviu/blob/main/figma%20(1).svg)
 ![REACT](figma(1).svg)
 
-
-   <img src="figma%20(1).svg" width="20" alt="FIGMA" title="react"/> <button width="30" height="20" background-color="green">Figma</button>
+<p>
+ <img src="figma%20(1).svg" width="20" alt="FIGMA" title="react"/> <button width="30" height="20" background-color="green">Figma</button>
+ <img alt="image" src="figma%20(1).svg"/>
   
 
 
