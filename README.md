@@ -1,6 +1,6 @@
 ## 🏂 Liviu Vinturache 🇷🇴
 
-### Consultancy | Develpment | Design
+#### Consultancy | Develpment | Design
 
 ![cover](https://github.com/vteliviu/vteliviu/blob/main/cover.jpg 'width=250')
 
