@@ -14,17 +14,16 @@ I also enjoy wireframming, ui, ux, and design in general.
 
 <p>
  <img src="figma%20(1).svg" width="20" alt="FIGMA" title="react"/> <button width="30" height="20" background-color="green">Figma</button>
+</p>
  <img alt="image" src="figma%20(1).svg"/>
-  
+ 
 
 
 - 🔭 I’m currently working on Vitesco Technologies Romania and as a freelancer
 - 👯 I’m looking to collaborate on Individiual | Open Source projects
 - 📫 How to reach me: liviu.vinturache@gmail.com
 
-[![My Tech Stack](<FontAwesomeIcon icon="fa-brands fa-figma" size="sm" style={{color: "#11ff00",}} />)
 
-[<i class="fa-brands fa-figma fa-sm" style="color: #11ff00;"></i>]
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vteliviu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/liviu-vinturache/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/liviu18vte/)  
 
