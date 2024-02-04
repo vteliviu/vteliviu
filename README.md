@@ -9,15 +9,10 @@ I really enjoy playing with BTP Integration Suite, B2B, programming languages, f
 I also enjoy wireframming, ui, ux, and design in general.
 
 #### 🏋️  Skills: REACT | BOOTSTRAP | JS | HTML | CSS | SAP BTP | GROOVY | UI | UX | EDI
-![REACT](https://github.com/vteliviu/vteliviu/blob/main/figma%20(1).svg)
+
 ![REACT](figma(1).svg)
 
-<p>
- <img src="figma%20(1).svg" width="20" alt="FIGMA" title="react"/> <button width="30" height="20" background-color="green">Figma</button>
-</p>
- <img alt="image" src="figma%20(1).svg" width="30" padding-left="100"/>
- 
- <div><img src="figma%20(1).svg" width="20" alt="My Image" /></div>
+
 
 - 🔭 I’m currently working on Vitesco Technologies Romania and as a freelancer
 - 👯 I’m looking to collaborate on Individiual | Open Source projects
