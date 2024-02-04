@@ -10,7 +10,7 @@ I also enjoy wireframming, ui, ux, and design in general.
 
 #### 🏋️  Skills: REACT | BOOTSTRAP | JS | HTML | CSS | SAP BTP | GROOVY | UI | UX | EDI
 
-![REACT](figma(1).svg)
+![REACT](<img src="figma(1).sv"  width="20" alt="FIGMA" title="red" />)
 
 
 
