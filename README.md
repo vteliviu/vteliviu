@@ -12,9 +12,8 @@ I also enjoy wireframming, ui, ux, and design in general.
 ![REACT](https://github.com/vteliviu/vteliviu/blob/main/figma%20(1).svg)
 ![REACT](figma(1).svg)
 
-<p align="left">
-  <img src="figma%20(1).svg" width="20" alt="FIGMA" text-color="white">
-</p>
+
+  <img src="figma%20(1).svg" width="20" alt="FIGMA" title="react"/>
 
 
 - 🔭 I’m currently working on Vitesco Technologies Romania and as a freelancer
