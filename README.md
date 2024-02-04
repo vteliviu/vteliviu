@@ -14,6 +14,7 @@ I also enjoy wireframming, ui, ux, and design in general.
 
 
   <img src="figma%20(1).svg" width="20" alt="FIGMA" title="react"/>
+  <button>Figma</button>
 
 
 - 🔭 I’m currently working on Vitesco Technologies Romania and as a freelancer
