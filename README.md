@@ -13,6 +13,7 @@ I also enjoy wireframming, ui, ux, and design in general.
 ![REACT](<img src="figma(1).svg"  width="20" alt="FIGMA" title="red" />)
 
 [JavaScript](https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png)
+<a href="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> JavaScript</a>
 
 
 
