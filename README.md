@@ -8,4 +8,4 @@ I also enjoy wireframming, ui, ux, and design in general.
 
 ##### 🏋️  Skills: REACT | BOOTSTRAP | JS | HTML | CSS | SAP BTP | GROOVY | UI | UX | EDI
 
-##### 💼  I'm currently working on Vitesco Technologies Romania and as a freelance
+##### 💼  I'm currently working on Vitesco Technologies Romania and as a freelancer
