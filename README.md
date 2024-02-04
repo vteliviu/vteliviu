@@ -13,7 +13,7 @@ I also enjoy wireframming, ui, ux, and design in general.
 ![REACT](figma(1).svg)
 
 
-  <img src="figma%20(1).svg" width="20" alt="FIGMA" title="react"/><button>Figma</button>
+   <img src="figma%20(1).svg" width="20" alt="FIGMA" title="react"/> <button width="30" height="20" background-color="green">Figma</button>
   
 
 
