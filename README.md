@@ -11,6 +11,10 @@ I also enjoy wireframming, ui, ux, and design in general.
 #### 🏋️  Skills: REACT | BOOTSTRAP | JS | HTML | CSS | SAP BTP | GROOVY | UI | UX | EDI
 ![REACT](https://github.com/vteliviu/vteliviu/blob/main/figma%20(1).svg'_alt='FIGMA'/)
 
+
+<img src="vteliviu/vteliviu/figma(1).svg" alt="FIGMA" />
+
+
 - 🔭 I’m currently working on Vitesco Technologies Romania and as a freelancer
 - 👯 I’m looking to collaborate on Individiual | Open Source projects
 - 📫 How to reach me: liviu.vinturache@gmail.com
