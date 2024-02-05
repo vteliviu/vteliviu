@@ -14,7 +14,7 @@ I also enjoy wireframming, ui, ux, and design in general.
 
 <a href="https://www.flaticon.com/free-icons/react" title="react icons">React</a>
 
-![image](<img src="https://github.com/vteliviu/vteliviu/assets/100861850/9e399832-4784-4fdd-8fe7-c0c31e01ce5f" width="20" heigth="30"> )
+![image](<img src="https://github.com/vteliviu/vteliviu/assets/100861850/9e399832-4784-4fdd-8fe7-c0c31e01ce5f" width="20" heigth="30">)
 
 
 
