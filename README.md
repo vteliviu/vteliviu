@@ -10,22 +10,7 @@ I also enjoy wireframming, ui, ux, and design in general.
 
 #### 🏋️  Skills: REACT | BOOTSTRAP | JS | HTML | CSS | SAP BTP | GROOVY | UI | UX | EDI
 
-![JavaScript](<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" with="20" height="20" alt="JS"/>)
-
-<a href="https://www.flaticon.com/free-icons/react" title="react icons">React</a>
-
-![](<img src="https://github.com/vteliviu/vteliviu/assets/100861850/9e399832-4784-4fdd-8fe7-c0c31e01ce5f" width="20" height="30"/>)
-
-
-
-
-
-![REACT](<img src="https://github.com/vteliviu/vteliviu/blob/main/react.png" width="20" height="20"/>)
-
-
-
-
-
+[<img src='https://github.com/vteliviu/vteliviu/blob/main/sap.png' alt='sap' height='30' width ='20'>]()
 
 - 🔭 I’m currently working on Vitesco Technologies Romania and as a freelancer
 - 👯 I’m looking to collaborate on Individiual | Open Source projects
