@@ -10,11 +10,11 @@ I also enjoy wireframming, ui, ux, and design in general.
 
 #### 🏋️  Skills: REACT | BOOTSTRAP | JS | HTML | CSS | SAP BTP | GROOVY | UI | UX | EDI
 
-[<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/git.png' alt='git' height='50' width ='40'>]()
-[<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/react.png' alt='react' height='50' width ='40'>]()
-[<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/bootstrap.png' alt='bootstrap' height='50' width ='40'>]()
-[<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/js.png' alt='js' height='50' width ='40'>]()
-[<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/css-3.png' alt='css' height='50' width ='40'>]()
+[<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/git.png' alt='git' height='50' width ='50'>]()
+[<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/react.png' alt='react' height='50' width ='50'>]()
+[<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/bootstrap.png' alt='bootstrap' height='50' width ='50'>]()
+[<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/js.png' alt='js' height='50' width ='50'>]()
+[<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/css-3.png' alt='css' height='50' width ='50'>]()
 [<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/html-5.png' alt='html' height='50' width ='40'>]()
 [<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/ui-ux.png' alt='ui-ux' height='50' width ='40'>]()
 [<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/figma.png' alt='figma' height='50' width ='40'>]()
