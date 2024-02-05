@@ -8,7 +8,7 @@ I'm an enthusiastic front-end developer and sap it consultant building my own ve
 I really enjoy playing with BTP Integration Suite, B2B, programming languages, frameworks like Boostrap or React, as well as work in JavaScript.
 I also enjoy wireframming, ui, ux, and design in general.
 
-#### 🏋️  Skills: REACT | BOOTSTRAP | JS | HTML | CSS | SAP BTP | GROOVY | UI | UX | EDI
+#### 🏋️  Skills: GIT | REACT | BOOTSTRAP | JS | HTML | CSS | SAP BTP | GROOVY | UI | UX | EDI
 
 [<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/git.png' alt='git' height='40' width ='40'>]()
 [<img src='https://github.com/vteliviu/vteliviu/blob/main/icons/react.png' alt='react' height='40' width ='40'>]()
@@ -29,5 +29,6 @@ I also enjoy wireframming, ui, ux, and design in general.
 
 ![Liviu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vteliviu&theme=algolia_icons=true)
 
-![cover](https://github.com/vteliviu/vteliviu/blob/main/design.gif)
+
+![cover](https://github.com/vteliviu/vteliviu/blob/main/images/design.gif)
 
