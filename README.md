@@ -19,7 +19,7 @@ I also enjoy wireframming, ui, ux, and design in general.
 
 
 
-![REACT](<img src="https://github.com/vteliviu/vteliviu/blob/main/react.png" width="20" height="20" alt="REACT">)
+![REACT](<img src="https://github.com/vteliviu/vteliviu/blob/main/react.png" width="20" height="20"/>)
 
 
 
