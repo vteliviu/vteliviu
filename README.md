@@ -1,4 +1,4 @@
-![cover](https://github.com/vteliviu/vteliviu/blob/main/cover.jpg)
+![cover](https://github.com/vteliviu/vteliviu/blob/main/images/cover.jpg?raw=true)
 
 ### 🏂 Liviu Vinturache 🇷🇴
 
