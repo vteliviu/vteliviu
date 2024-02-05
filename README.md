@@ -12,6 +12,8 @@ I also enjoy wireframming, ui, ux, and design in general.
 
 ![JavaScript](<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" with="20" height="20" alt="JS"/>)
 
+<a href="https://www.flaticon.com/free-icons/react" title="react icons">React</a>
+
 
 
 
