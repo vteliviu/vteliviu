@@ -30,5 +30,5 @@ I also enjoy wireframming, ui, ux, and design in general.
 ![Liviu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vteliviu&theme=algolia_icons=true)
 
 
-![cover](https://github.com/vteliviu/vteliviu/blob/main/images/design.gif)
+
 
